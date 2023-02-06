@@ -2,3 +2,5 @@
 #GIT ADD (ESPACIO).(punto)
 #GIT COMMIT -M”COMENTARIO” 
 #GIT PUSH;
+
+
