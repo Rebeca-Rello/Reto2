@@ -4,3 +4,4 @@
 #GIT PUSH;
 
 
+Al eliminar las imágenes, e ir a Github, aparecen como eliminadas.
